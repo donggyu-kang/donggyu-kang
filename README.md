@@ -14,32 +14,68 @@
   <br>
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </div>
+</div>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📑 Profile Details</h2>
+  <br>
+  <table style="border-collapse: collapse; width: 85%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden;">
+    <thead>
+      <tr style="background: linear-gradient(to right, #6a11cb, #2575fc); color: white;">
+        <th colspan="2" style="padding: 15px; font-size: 18px;">D0434 Information</th>
+      </tr>
+      <tr style="background-color: #f1f3f5; color: #495057;">
+        <th style="padding: 10px; border: 1px solid #dee2e6; width: 30%;">분류</th>
+        <th style="padding: 10px; border: 1px solid #dee2e6;">내용</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">🎓 Education</td>
+        <td style="padding: 12px; border: 1px solid #dee2e6;">단국대학교 컴퓨터공학 전공</td>
+      </tr>
+      <tr style="background-color: #f8f9fa;">
+        <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">🏆 Awards</td>
+        <td style="padding: 12px; border: 1px solid #dee2e6;">
+          <b>TABA 아카데미 10기 프로젝트 최우수상 (1등)</b>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">📜 Certifications</td>
+        <td style="padding: 12px; border: 1px solid #dee2e6;"> </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
   <br>
   <div>
+    <a href="https://yswmon.github.io/">
+      <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
     <a href="https://www.instagram.com/don___gyu/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="mailto:kangkg0067@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
   <br>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonggyu-kang%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+  <a href="https://github.com/donggyu-kang">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonggyu-kang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
   </a>
 </div>
 
