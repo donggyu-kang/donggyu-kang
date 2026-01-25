@@ -70,7 +70,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
   <br>
   <div>
-    <a href="https://yswmon.github.io/">
+    <a href="https://donggyu-kang.github.io/">
       <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <a href="https://www.instagram.com/don___gyu/">
