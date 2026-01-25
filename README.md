@@ -7,7 +7,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
     Pushing technical limits through progressive overload. Aspiring Backend Developer.
     <br>
-    🎓 단국대학교 컴퓨터공학 전공 (4학년 재학 중)
+    🎓 단국대학교 컴퓨터공학 전공
   </div>
 </div>
 
@@ -41,12 +41,8 @@
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 15px; border: 1px solid #dee2e6; font-weight: bold;">TABA 아카데미 10기</td>
-        <td style="padding: 15px; border: 1px solid #dee2e6;">프로젝트 발표회 <b>최우수상 (1등)</b></td>
-      </tr>
-      <tr style="background-color: #f8f9fa;">
-        <td style="padding: 15px; border: 1px solid #dee2e6; font-weight: bold;">졸업 프로젝트</td>
-        <td style="padding: 15px; border: 1px solid #dee2e6;">AI 기반 로직 시각화 에이전트: <b>CodeMap AI</b></td>
+        <td style="padding: 15px; border: 1px solid #dee2e6; font-weight: bold;">TABA 아카데미 10기 프로젝트</td>
+        <td style="padding: 15px; border: 1px solid #dee2e6;"><b>최우수상 (1등)</b></td>
       </tr>
     </tbody>
   </table>
