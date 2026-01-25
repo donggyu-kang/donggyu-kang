@@ -7,7 +7,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
     Pushing technical limits through progressive overload. Aspiring Backend Developer.
     <br>
-    🎓 단국대학교 컴퓨터공학 전공
+    🎓 B.S. in Computer Science, Dankook University
   </div>
 </div>
 
@@ -81,9 +81,7 @@
     </a>
   </div>
   <br>
-  <a href="https://github.com/donggyu-kang">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonggyu-kang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=donggyu-kang&color=black&style=flat-square" alt="Views" />
 </div>
 
 <div align="center">
