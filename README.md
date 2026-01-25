@@ -81,7 +81,7 @@
     </a>
   </div>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=donggyu-kang&color=black&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=donggyu-kang&color=000000&style=flat-square" alt="Views" />
 </div>
 
 <div align="center">
