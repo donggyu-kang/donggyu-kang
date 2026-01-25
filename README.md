@@ -6,6 +6,8 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Backend Engineer Road: DongGyu Kang</h2>
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
     Pushing technical limits through progressive overload. Aspiring Backend Developer.
+    <br>
+    🎓 단국대학교 컴퓨터공학 전공 (4학년 재학 중)
   </div>
 </div>
 
@@ -28,32 +30,41 @@
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📑 Profile Details</h2>
   <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Awards</h2>
   <table style="border-collapse: collapse; width: 85%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden;">
     <thead>
       <tr style="background: linear-gradient(to right, #6a11cb, #2575fc); color: white;">
-        <th colspan="2" style="padding: 15px; font-size: 18px;">D0434 Information</th>
-      </tr>
-      <tr style="background-color: #f1f3f5; color: #495057;">
-        <th style="padding: 10px; border: 1px solid #dee2e6; width: 30%;">분류</th>
-        <th style="padding: 10px; border: 1px solid #dee2e6;">내용</th>
+        <th style="padding: 12px; font-size: 16px; width: 30%;">대회 및 행사명</th>
+        <th style="padding: 12px; font-size: 16px;">수상 내역</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">🎓 Education</td>
-        <td style="padding: 12px; border: 1px solid #dee2e6;">단국대학교 컴퓨터공학 전공</td>
+        <td style="padding: 15px; border: 1px solid #dee2e6; font-weight: bold;">TABA 아카데미 10기</td>
+        <td style="padding: 15px; border: 1px solid #dee2e6;">프로젝트 발표회 <b>최우수상 (1등)</b></td>
       </tr>
       <tr style="background-color: #f8f9fa;">
-        <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">🏆 Awards</td>
-        <td style="padding: 12px; border: 1px solid #dee2e6;">
-          <b>TABA 아카데미 10기 프로젝트 최우수상 (1등)</b>
-        </td>
+        <td style="padding: 15px; border: 1px solid #dee2e6; font-weight: bold;">졸업 프로젝트</td>
+        <td style="padding: 15px; border: 1px solid #dee2e6;">AI 기반 로직 시각화 에이전트: <b>CodeMap AI</b></td>
       </tr>
+    </tbody>
+  </table>
+
+  <br>
+
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📜 Certifications</h2>
+  <table style="border-collapse: collapse; width: 85%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden;">
+    <thead>
+      <tr style="background: linear-gradient(to right, #434343, #000000); color: white;">
+        <th style="padding: 12px; font-size: 16px; width: 30%;">자격증 명칭</th>
+        <th style="padding: 12px; font-size: 16px;">취득 일자</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
-        <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">📜 Certifications</td>
-        <td style="padding: 12px; border: 1px solid #dee2e6;"> </td>
+        <td style="padding: 20px; border: 1px solid #dee2e6;"> </td>
+        <td style="padding: 20px; border: 1px solid #dee2e6;"> </td>
       </tr>
     </tbody>
   </table>
