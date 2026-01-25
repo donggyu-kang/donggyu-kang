@@ -49,6 +49,39 @@
 
   <br>
 
+  <br>
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
+<table style="border-collapse: collapse; width: 95%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden;">
+  <thead>
+    <tr style="background: linear-gradient(to right, #00c6ff, #0072ff); color: white;">
+      <th style="padding: 12px; font-size: 16px; width: 25%;">Project Name</th>
+      <th style="padding: 12px; font-size: 16px; width: 50%;">Description & Tech Stack</th>
+      <th style="padding: 12px; font-size: 16px; width: 20%;">Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 15px; border: 1px solid #dee2e6; text-align: center; font-weight: bold;">
+        Postura
+      </td>
+      <td style="padding: 15px; border: 1px solid #dee2e6;">
+        <b>웹캠기반 실시간 자세 교정 및 분석 서비스 백엔드 구축</b><br>
+        <div style="margin-top: 8px;">
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+        </div>
+      </td>
+      <td style="padding: 15px; border: 1px solid #dee2e6; text-align: center;">
+        <a href="https://github.com/TABA-postura/Backend" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-181717?style=flat-square&logo=github">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📜 Certifications</h2>
   <table style="border-collapse: collapse; width: 85%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden;">
     <thead>
