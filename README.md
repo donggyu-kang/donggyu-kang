@@ -120,7 +120,6 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=donggyu-kang&color=000000&style=flat-square" alt="Views" />
 </div>
 
 <br><br><br>
