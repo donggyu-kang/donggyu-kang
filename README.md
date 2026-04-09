@@ -98,8 +98,8 @@
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 20px; border: 1px solid #dee2e6;"> </td>
-        <td style="padding: 20px; border: 1px solid #dee2e6;"> </td>
+        <td style="padding: 20px; border: 1px solid #dee2e6;">SQLD </td>
+        <td style="padding: 20px; border: 1px solid #dee2e6;">2026.03.27</td>
       </tr>
     </tbody>
   </table>
