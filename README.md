@@ -12,6 +12,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&theme=tokyo-night&hide_border=true)](https://github.com/donggyu-kang)
+
 
 <br>
 
