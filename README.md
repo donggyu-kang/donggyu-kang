@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ███╗   ██╗ ██████╗  ██████╗ ██╗   ██╗██╗   ██╗
-██╔══██╗██╔═══██╗████╗  ██║██╔════╝ ██╔════╝ ╚██╗ ██╔╝██║   ██║
-██║  ██║██║   ██║██╔██╗ ██║██║  ███╗██║  ███╗ ╚████╔╝ ██║   ██║
-██║  ██║██║   ██║██║╚██╗██║██║   ██║██║   ██║  ╚██╔╝  ██║   ██║
-██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝╚██████╔╝   ██║   ╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝    ╚═╝    ╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2575fc&height=200&section=header&text=Kang%20DongGyu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Backend%20Developer&descAlignY=58&descSize=18&descColor=aaaaaa" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%2F+Dankook+Univ.+CS;Spring+Boot+%7C+AWS+%7C+Docker+%7C+MySQL;Progressive+Overload+%E2%80%94+Technical+%26+Physical)](https://git.io/typing-svg)
 
@@ -54,5 +47,7 @@
 [![Blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white)](https://donggyu-kang.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/don___gyu/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:1a3a5c,100:0d1117&height=120&section=footer" />
 
 </div>
