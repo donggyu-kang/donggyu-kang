@@ -12,7 +12,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
 
 <br>
 
