@@ -1,125 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hi%20there,%20I'm%20DongGyu!&animation=fadeIn&fontColor=000000&fontSize=50" />
+
+```
+██████╗  ██████╗ ███╗   ██╗ ██████╗  ██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██╔═══██╗████╗  ██║██╔════╝ ██╔════╝ ╚██╗ ██╔╝██║   ██║
+██║  ██║██║   ██║██╔██╗ ██║██║  ███╗██║  ███╗ ╚████╔╝ ██║   ██║
+██║  ██║██║   ██║██║╚██╗██║██║   ██║██║   ██║  ╚██╔╝  ██║   ██║
+██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝╚██████╔╝   ██║   ╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝    ╚═╝    ╚═════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%2F+Dankook+Univ.+CS;Spring+Boot+%7C+AWS+%7C+Docker+%7C+MySQL;Progressive+Overload+%E2%80%94+Technical+%26+Physical)](https://git.io/typing-svg)
+
+<br>
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/donggyu-kang)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
+
+<br>
+
+---
+
+### Tech Stack
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Projects
+
+| Project | Description | Stack | Award |
+|:---:|:---|:---:|:---:|
+| [**Postura**](https://github.com/TABA-postura/Backend) | 웹캠 기반 실시간 자세 교정 · 분석 서비스 | Spring Boot · AWS · MySQL | 🏆 TABA 10기 최우수상 |
+
+---
+
+### Certifications
+
+**SQLD** · 2026.03.27
+
+---
+
+[![Blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white)](https://donggyu-kang.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/don___gyu/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
+
 </div>
-
-<br><br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;">Backend Engineer Road: DongGyu Kang</h2>
-  <div style="font-weight: 700; font-size: 16px; text-align: center; color: #282d33;">
-    Pushing technical limits through progressive overload. Aspiring Backend Developer.
-    <br><br>
-    🎓 B.S. in Computer Science, Dankook University
-  </div>
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;">🛠️ Tech Stacks</h2>
-  <div style="margin: 20px auto; text-align: center;">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </div>
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;">🏆 Awards</h2>
-  <table style="border-collapse: collapse; width: 85%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden; margin-top: 15px;">
-    <thead>
-      <tr style="background: linear-gradient(to right, #6a11cb, #2575fc); color: white;">
-        <th style="padding: 12px; font-size: 16px; width: 30%;">대회 및 행사명</th>
-        <th style="padding: 12px; font-size: 16px;">수상 내역</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 15px; border: 1px solid #dee2e6; font-weight: bold;">TABA 아카데미 10기 프로젝트</td>
-        <td style="padding: 15px; border: 1px solid #dee2e6;"><b>최우수상 (1등)</b></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;">🚀 Projects</h2>
-  <table style="border-collapse: collapse; width: 90%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden; margin-top: 15px;">
-    <thead>
-      <tr style="background: linear-gradient(to right, #00c6ff, #0072ff); color: white;">
-        <th style="padding: 12px; font-size: 16px; width: 25%;">Project Name</th>
-        <th style="padding: 12px; font-size: 16px; width: 55%;">Description & Tech Stack</th>
-        <th style="padding: 12px; font-size: 16px; width: 20%;">Repository</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 15px; border: 1px solid #dee2e6; text-align: center; font-weight: bold;">Postura</td>
-        <td style="padding: 15px; border: 1px solid #dee2e6;">
-          <b>웹캠기반 실시간 자세 교정 및 분석 서비스 백엔드 구축</b><br>
-          <div style="margin-top: 10px;">
-            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
-            <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-          </div>
-        </td>
-        <td style="padding: 15px; border: 1px solid #dee2e6; text-align: center;">
-          <a href="https://github.com/TABA-postura/Backend" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-Link-181717?style=flat-square&logo=github">
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;">📜 Certifications</h2>
-  <table style="border-collapse: collapse; width: 85%; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border-style: hidden; margin-top: 15px;">
-    <thead>
-      <tr style="background: linear-gradient(to right, #434343, #000000); color: white;">
-        <th style="padding: 12px; font-size: 16px; width: 30%;">자격증 명칭</th>
-        <th style="padding: 12px; font-size: 16px;">취득 일자</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 20px; border: 1px solid #dee2e6;">SQLD </td>
-        <td style="padding: 20px; border: 1px solid #dee2e6;">2026.03.27</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;">🧑‍💻 Contact me</h2>
-  <div style="margin: 25px 0;">
-    <a href="https://donggyu-kang.github.io/">
-      <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/don___gyu/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="mailto:kangkg0067@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </div>
-</div>
-
-<br><br><br>
