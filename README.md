@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:10B981&height=180&section=header&text=Kang%20DongGyu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer&descAlignY=62&descSize=18&descColor=a0ffd6" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=donggyu-kang&color=10B981&style=flat-square&label=Profile+Views)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Java+%2F+Spring+Boot+Backend+Developer;JWT+%7C+OAuth2+%7C+Spring+Security;CI%2FCD+%7C+Docker+%7C+GitHub+Actions;Dankook+Univ.+Computer+Science)](https://git.io/typing-svg)
 
 <br>
@@ -46,7 +48,7 @@
 
 ### Awards & Certifications
 
-| | |
+| Award | Detail |
 |:---|:---|
 | TABA 10기 프로젝트 최우수상 | 과학기술정보통신부 · 정보통신기획평가원 · 단국대학교 (2025.12) |
 | SQLD | 한국데이터산업진흥원 (2026.03) |
@@ -55,9 +57,19 @@
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/donggyu-kang)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&theme=tokyo-night&hide_border=true)](https://github.com/donggyu-kang)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=donggyu-kang&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
