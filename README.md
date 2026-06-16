@@ -56,7 +56,7 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=10B981&text_color=333333&icon_color=10B981)](https://github.com/donggyu-kang)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=10B981&text_color=333333&icon_color=10B981)](https://github.com/donggyu-kang)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=ffffff&title_color=10B981&text_color=333333)](https://github.com/donggyu-kang)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&hide_border=true&background=ffffff&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=333333&currStreakNum=333333&sideNums=333333)](https://github.com/donggyu-kang)
