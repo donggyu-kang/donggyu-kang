@@ -63,15 +63,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=ffffff&color=10B981&line=10B981&point=10B981&hide_border=true)](https://github.com/donggyu-kang)
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=donggyu-kang&no-frame=true&row=1&column=7&margin-w=4&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-![Snake animation](https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake.svg)
-
----
 
 [![Blog](https://img.shields.io/badge/Blog-10B981?style=flat-square&logo=github&logoColor=white)](https://donggyu-kang.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
