@@ -33,7 +33,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | Description | Role | Stack |
 |:---|:---|:---|:---|
@@ -44,18 +44,20 @@
 
 ---
 
-### 🏆 Awards & Certifications
+### Awards & Certifications
 
-|  |  |
+| | |
 |:---|:---|
-| 🥇 **TABA 10기 프로젝트 최우수상** | 과학기술정보통신부 · 정보통신기획평가원 · 단국대학교 (2025.12) |
-| 📜 **SQLD** | 한국데이터산업진흥원 (2026.03) |
-| 📜 **정보처리기사** | 필기 합격 · 실기 준비 중 |
+| TABA 10기 프로젝트 최우수상 | 과학기술정보통신부 · 정보통신기획평가원 · 단국대학교 (2025.12) |
+| SQLD | 한국데이터산업진흥원 (2026.03) |
+| 정보처리기사 | 필기 합격 · 실기 준비 중 |
 
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/donggyu-kang)
 [![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&theme=tokyo-night&hide_border=true)](https://github.com/donggyu-kang)
 
 ---
 
