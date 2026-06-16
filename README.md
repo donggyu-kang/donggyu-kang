@@ -61,12 +61,9 @@ Spring Boot 기반 백엔드 개발자로, 인증/보안(JWT · OAuth2)과 CI/CD
 
 <div align="center">
 
-[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=10B981&text_color=333333&icon_color=10B981#gh-light-mode-only)](https://github.com/donggyu-kang)
-[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9&icon_color=10B981#gh-dark-mode-only)](https://github.com/donggyu-kang)
-[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=ffffff&title_color=10B981&text_color=333333#gh-light-mode-only)](https://github.com/donggyu-kang)
-[![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9#gh-dark-mode-only)](https://github.com/donggyu-kang)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=10B981&text_color=6e7681&icon_color=10B981)](https://github.com/donggyu-kang)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=00000000&title_color=10B981&text_color=6e7681)](https://github.com/donggyu-kang)
 
-[![Activity Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=ffffff&color=10B981&line=10B981&point=10B981&hide_border=true#gh-light-mode-only)](https://github.com/donggyu-kang)
-[![Activity Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=0d1117&color=10B981&line=10B981&point=10B981&hide_border=true#gh-dark-mode-only)](https://github.com/donggyu-kang)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=00000000&color=6e7681&line=10B981&point=10B981&hide_border=true)](https://github.com/donggyu-kang)
 
 </div>
