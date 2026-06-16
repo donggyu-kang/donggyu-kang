@@ -56,20 +56,20 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/donggyu-kang)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=10B981&text_color=333333&icon_color=10B981)](https://github.com/donggyu-kang)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=ffffff&title_color=10B981&text_color=333333)](https://github.com/donggyu-kang)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&theme=tokyonight&hide_border=true)](https://github.com/donggyu-kang)
+[![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&hide_border=true&background=ffffff&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=333333&currStreakNum=333333&sideNums=333333)](https://github.com/donggyu-kang)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&theme=tokyo-night&hide_border=true)](https://github.com/donggyu-kang)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=donggyu-kang&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=ffffff&color=10B981&line=10B981&point=10B981&hide_border=true)](https://github.com/donggyu-kang)
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=donggyu-kang&no-frame=true&row=1&column=7&margin-w=4&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake.svg)
 
 ---
 
