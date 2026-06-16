@@ -1,33 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:10B981&height=180&section=header&text=Kang%20DongGyu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer&descAlignY=62&descSize=18&descColor=a0ffd6" />
+<h1>Kang DongGyu</h1>
+<p>Backend Developer · Dankook University, Computer Science</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=donggyu-kang&color=10B981&style=flat-square&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Java+%2F+Spring+Boot+Backend+Developer;JWT+%7C+OAuth2+%7C+Spring+Security;CI%2FCD+%7C+Docker+%7C+GitHub+Actions;Dankook+Univ.+Computer+Science)](https://git.io/typing-svg)
-
 <br>
+
+[![Blog](https://img.shields.io/badge/Blog-10B981?style=flat-square&logo=github&logoColor=white)](https://donggyu-kang.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/don___gyu/)
+
+</div>
 
 ---
 
-**Language**
+## About
+
+Spring Boot 기반 백엔드 개발자로, 인증/보안(JWT · OAuth2)과 CI/CD 자동화에 집중하고 있습니다.
+클라우드 인프라(AWS · Docker)를 활용한 안정적인 서비스 운영과 구조 설계에 관심이 많습니다.
+
+---
+
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Backend**
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Database**
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Infra / DevOps**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -35,7 +38,7 @@
 
 ---
 
-### Projects
+## Projects
 
 | Project | Description | Role | Stack |
 |:---|:---|:---|:---|
@@ -46,7 +49,7 @@
 
 ---
 
-### Awards & Certifications
+## Awards & Certifications
 
 | Award | Detail |
 |:---|:---|
@@ -56,18 +59,11 @@
 
 ---
 
+<div align="center">
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=10B981&text_color=333333&icon_color=10B981)](https://github.com/donggyu-kang)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=ffffff&title_color=10B981&text_color=333333)](https://github.com/donggyu-kang)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=donggyu-kang&hide_border=true&background=ffffff&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=333333&currStreakNum=333333&sideNums=333333)](https://github.com/donggyu-kang)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=ffffff&color=10B981&line=10B981&point=10B981&hide_border=true)](https://github.com/donggyu-kang)
-
-
-[![Blog](https://img.shields.io/badge/Blog-10B981?style=flat-square&logo=github&logoColor=white)](https://donggyu-kang.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/don___gyu/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0d1117&height=120&section=footer" />
 
 </div>
