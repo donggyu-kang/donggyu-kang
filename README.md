@@ -60,6 +60,7 @@ Spring Boot 기반 백엔드 개발자로, 인증/보안(JWT · OAuth2)과 CI/CD
 
 <div align="center">
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=10B981&text_color=6e7681&icon_color=10B981)](https://github.com/donggyu-kang)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=00000000&title_color=10B981&text_color=6e7681)](https://github.com/donggyu-kang)
 
 </div>
