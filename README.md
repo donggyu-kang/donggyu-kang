@@ -98,4 +98,16 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,10B981,1a1a2e&height=150&section=footer" />
