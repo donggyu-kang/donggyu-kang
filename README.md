@@ -92,8 +92,6 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=00000000&color=6e7681&line=10B981&point=10B981&hide_border=true)](https://github.com/donggyu-kang)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=donggyu-kang&hide_border=true&bg_color=00000000&title_color=10B981&text_color=6e7681&icon_color=10B981&layout=compact)](https://wakatime.com/@donggyu-kang)
-
 </div>
 
 ---
