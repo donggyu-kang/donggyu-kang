@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,10 +17,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: donggyu-kang
-      - name: Convert SVG to PNG
-        run: |
-          sudo apt-get install -y librsvg2-bin
-          rsvg-convert -w 1280 profile-3d-contrib/profile-customize.svg -o profile-3d-contrib/profile-3d.png
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
