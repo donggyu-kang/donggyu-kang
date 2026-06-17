@@ -101,7 +101,7 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 ## 3D Contribution
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 ---
