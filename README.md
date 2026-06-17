@@ -98,10 +98,10 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 ---
 
-## 3D Contribution
+## Metrics
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </div>
 
 ---
