@@ -98,12 +98,4 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 ---
 
-## Metrics
-
-<div align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
-</div>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,10B981,1a1a2e&height=150&section=footer" />
