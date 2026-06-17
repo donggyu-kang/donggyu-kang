@@ -14,14 +14,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: donggyu-kang
-          SETTING_JSON: |
-            {
-              "githubUserName": "donggyu-kang",
-              "startWeekday": 0,
-              "themeName": "green-nur",
-              "outputFileGitHub": "profile-3d-contrib/profile-green-animate.svg",
-              "type": "github"
-            }
+          SETTING_JSON: settings.json
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
