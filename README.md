@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+JWT+%7C+OAuth2+%F0%9F%94%90;CI%2FCD+%7C+Docker+%7C+AWS+%E2%98%81%EF%B8%8F;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+%7C+JWT+%7C+OAuth2;CI%2FCD+%7C+Docker+%7C+AWS;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 <br>
 
@@ -18,14 +18,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Spring Boot 기반 백엔드 개발자로, JWT · OAuth2 인증 시스템을 설계하고 GitHub Actions로 CI/CD 파이프라인을 구축한 경험이 있습니다.
 AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비스 구조 설계에 집중하고 있습니다.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Language**
 
@@ -52,7 +52,7 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Role | Stack |
 |:---|:---|:---|:---|
@@ -63,7 +63,7 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 ---
 
-## 🏆 Awards & Certifications
+## Awards & Certifications
 
 | Award | Detail |
 |:---|:---|
@@ -73,7 +73,7 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -96,7 +96,7 @@ AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비�
 
 ---
 
-## 🌱 3D Contribution
+## 3D Contribution
 
 <div align="center">
   <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
