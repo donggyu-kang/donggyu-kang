@@ -92,10 +92,4 @@ Spring Boot로 서비스의 **도메인과 API를 설계하고, 인증·데이�
 | 자격증 | **SQLD** | 한국데이터산업진흥원 | 2026.03 |
 | 자격증 | **정보처리기사** | 한국산업인력공단 | 2026.09 |
 
-<br>
-
-<div align="center">
-  <sub>더 자세한 내용은 <a href="https://donggyu-kang.github.io/resume">이력서</a>에 정리해 두었습니다. 궁금한 점은 <a href="mailto:kangkg0067@gmail.com">메일</a> 주세요.</sub>
-</div>
-
 <!-- 이 파일은 donggyu-kang.github.io/_data/profile.yml 에서 자동 생성됩니다. 직접 수정하지 마세요. -->
