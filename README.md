@@ -1,113 +1,102 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,10B981&height=220&section=header&text=Kang%20DongGyu&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=62&descSize=20" />
+<a href="https://github.com/donggyu-kang"><img src="./assets/header.svg" width="100%" alt="Kang DongGyu — Backend Developer" /></a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+%7C+JWT+%7C+OAuth2;CI%2FCD+%7C+Docker+%7C+AWS;Always+learning%2C+always+growing)](https://git.io/typing-svg)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=donggyu-kang&color=10B981&style=flat-square&label=Profile+Views)
-
-<br>
-
-[![Blog](https://img.shields.io/badge/Blog-10B981?style=for-the-badge&logo=github&logoColor=white)](https://donggyu-kang.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/don___gyu/)
+[![Resume](https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-10B981?style=for-the-badge&logo=readdotcv&logoColor=white)](https://donggyu-kang.github.io/resume)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://donggyu-kang.github.io)
+[![Email](https://img.shields.io/badge/kangkg0067%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/don___gyu/)
 
 </div>
 
----
+<br>
 
 ## About Me
 
-Spring Boot 기반 백엔드 개발자로, JWT · OAuth2 인증 시스템을 설계하고 GitHub Actions로 CI/CD 파이프라인을 구축한 경험이 있습니다.
-AWS · Docker를 활용한 클라우드 인프라 운영과 안정적인 서비스 구조 설계에 집중하고 있습니다.
+Spring Boot로 서비스의 **도메인과 API를 설계하고, 인증·데이터·배포까지 직접 책임지는** 백엔드 개발자입니다.
+단국대학교 재학 중이며, 여러 팀 프로젝트에서 서버 전반을 맡아 왔습니다.
 
----
+- **API & 도메인 설계** — 요구사항을 엔티티와 계층 구조로 옮겨 REST API로 구현합니다.
+- **인증 & 보안** — OAuth2 소셜 로그인과 JWT 기반 인증 체계를 설계하고 Spring Security로 구현합니다.
+- **데이터 계층** — JPA로 도메인을 매핑하고 MySQL 스키마를 설계합니다.
+- **배포 & 운영** — GitHub Actions → Docker → AWS 파이프라인으로 배포를 자동화합니다.
+
+<br>
 
 ## Tech Stack
 
-**Language**
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Projects
-
-| Project | Description | Role | Stack |
-|:---|:---|:---|:---|
-| [**Postura**](https://github.com/TABA-postura/Backend) | 웹캠 기반 실시간 자세 교정 헬스케어 서비스 | 백엔드 인증/보안 · CI/CD 담당 | Spring Boot · OAuth2 · JWT · AWS |
-| [**Clean View AI**](https://github.com/donggyu-kang/clean-view-ai) | RAG 기반 AI 챗봇 (기억 시각화 · 데이터 주권) | Spring Boot 백엔드 · CI/CD 담당 | Spring Boot · PostgreSQL · Docker |
-| [**SkyDetect**](https://github.com/CAPSTONE-skydetect/skydetect-ai) | 드론 · 조류 실시간 AI 분류 시스템 | 분류 모듈(FastAPI) 전담 | Python · FastAPI · scikit-learn |
-| [**DeClone**](https://github.com/Khuthon2026/Kt_backend) | 구글 플레이 앱 광고 기만 자동 분석 | 백엔드 공동 개발 | Python · FastAPI · PostgreSQL |
-
----
-
-## Awards & Certifications
-
-| Award | Detail |
-|:---|:---|
-| TABA 10기 프로젝트 최우수상 | 과학기술정보통신부 · 정보통신기획평가원 · 단국대학교 (2025.12) |
-| SQLD | 한국데이터산업진흥원 (2026.03) |
-| 정보처리기사 | 필기 합격 |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
 <table>
   <tr>
+    <th align="left" width="150">Language</th>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=donggyu-kang&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=10B981&text_color=6e7681&icon_color=10B981" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
+  </tr>
+  <tr>
+    <th align="left" width="150">Backend</th>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donggyu-kang&layout=compact&hide_border=true&bg_color=00000000&title_color=10B981&text_color=6e7681" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th align="left" width="150">Database</th>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th align="left" width="150">Infra / DevOps</th>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <th align="left" width="150">Test / Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
     </td>
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donggyu-kang&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=6e7681&dates=6e7681&sideNums=10B981&currStreakNum=10B981)](https://github.com/donggyu-kang)
+<br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donggyu-kang&bg_color=00000000&color=6e7681&line=10B981&point=10B981&hide_border=true)](https://github.com/donggyu-kang)
+## Projects
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=donggyukang&hide_border=true&bg_color=00000000&title_color=10B981&text_color=6e7681&icon_color=10B981&layout=compact)](https://wakatime.com/@donggyukang)
+| 프로젝트 | 소개 | 기술 |
+|:--|:--|:--|
+| **[Postura](https://github.com/TABA-postura/Backend)**<br><sub>TABA 10기 최우수상</sub> | 웹캠 기반 실시간 자세 교정 헬스케어 서비스 · 백엔드 인증/인가 전담 | `Spring Boot` `Spring Security` `OAuth2` `JWT` `MySQL` `AWS` `Docker` `GitHub Actions` |
+| **[SkyDetect](https://github.com/CAPSTONE-skydetect/skydetect-ai)** | 드론·조류 실시간 AI 분류 시스템 · 분류(C) 파트 전담 | `Python` `FastAPI` `scikit-learn` `pytest` |
+| **[SkyDetect Backend](https://github.com/CAPSTONE-skydetect/skydetect-backend)**<br><sub>진행 중</sub> | SkyDetect AI 분석 서버(FastAPI)와 연동할 Spring 백엔드 | `Spring Boot` `Java 21` `Spring Security` `Spring Data JPA` `MySQL` |
+| **[Gavel](https://github.com/donggyu-kang/gavel)**<br><sub>진행 중</sub> | 동시성 제어를 주제로 만드는 실시간 경매 플랫폼 · 개인 프로젝트 | `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` |
 
-</div>
+<sub>각 프로젝트에서 무엇을 어떻게 했는지는 <a href="https://donggyu-kang.github.io/resume">이력서</a>에 자세히 정리해 두었습니다.</sub>
 
----
+<br>
 
-## Contribution Snake
+## Awards & Certifications
+
+| 구분 | 내용 | 기관 | 일자 |
+|:--|:--|:--|:--|
+| 수상 | TABA 10기 프로젝트 **최우수상** | 과학기술정보통신부 · 정보통신기획평가원 · 단국대학교 | 2025.12 |
+| 자격증 | **SQLD** | 한국데이터산업진흥원 | 2026.03 |
+| 자격증 | **정보처리기사** | 한국산업인력공단 | 2026.09 |
+
+<br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/donggyu-kang/donggyu-kang/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <sub>더 자세한 내용은 <a href="https://donggyu-kang.github.io/resume">이력서</a>에 정리해 두었습니다. 궁금한 점은 <a href="mailto:kangkg0067@gmail.com">메일</a> 주세요.</sub>
 </div>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,10B981,1a1a2e&height=150&section=footer" />
+<!-- 이 파일은 donggyu-kang.github.io/_data/profile.yml 에서 자동 생성됩니다. 직접 수정하지 마세요. -->
