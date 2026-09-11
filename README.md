@@ -5,7 +5,6 @@
 [![Resume](https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-10B981?style=for-the-badge&logo=readdotcv&logoColor=white)](https://donggyu-kang.github.io/resume)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://donggyu-kang.github.io)
 [![Email](https://img.shields.io/badge/kangkg0067%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kangkg0067@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/don___gyu/)
 
 </div>
 
