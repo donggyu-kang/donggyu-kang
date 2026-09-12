@@ -13,7 +13,7 @@
 ## About Me
 
 Spring Boot로 서비스의 **도메인과 API를 설계하고, 인증·데이터·배포까지 직접 책임지는** 백엔드 개발자입니다.
-단국대학교 재학 중이며, 여러 팀 프로젝트에서 서버 전반을 맡아 왔습니다.
+단국대학교 재학 중이며, 여러 팀 프로젝트에서 인증·보안과 배포 자동화를 맡아 왔습니다.
 
 - **API & 도메인 설계** — 요구사항을 엔티티와 계층 구조로 옮겨 REST API로 구현합니다.
 - **인증 & 보안** — OAuth2 소셜 로그인과 JWT 기반 인증 체계를 설계하고 Spring Security로 구현합니다.
@@ -60,6 +60,7 @@ Spring Boot로 서비스의 **도메인과 API를 설계하고, 인증·데이�
   <tr>
     <th align="left" width="150">Test / Tools</th>
     <td>
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
       <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -80,16 +81,14 @@ Spring Boot로 서비스의 **도메인과 API를 설계하고, 인증·데이�
 | **[skydetect-backend](https://github.com/CAPSTONE-skydetect/skydetect-backend)**<br><sub>진행 중</sub> | SkyDetect AI 분석 서버(FastAPI)와 연동할 Spring 백엔드 | `Spring Boot` `Java 21` `Spring Security` `Spring Data JPA` `MySQL` |
 | **[Gavel](https://github.com/donggyu-kang/gavel)**<br><sub>진행 중</sub> | 동시성 제어를 주제로 만드는 실시간 경매 플랫폼 · 개인 프로젝트 | `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` |
 
-<sub>각 프로젝트에서 무엇을 어떻게 했는지는 <a href="https://donggyu-kang.github.io/resume">이력서</a>에 자세히 정리해 두었습니다.</sub>
-
 <br>
 
 ## Awards & Certifications
 
 | 구분 | 내용 | 기관 | 일자 |
 |:--|:--|:--|:--|
-| 수상 | TABA 10기 프로젝트 **최우수상** | 과학기술정보통신부 · 정보통신기획평가원 · 단국대학교 | 2025.12 |
-| 자격증 | **SQLD** | 한국데이터산업진흥원 | 2026.03 |
-| 자격증 | **정보처리기사** | 한국산업인력공단 | 2026.09 |
+| 수상 | TABA 10기 프로젝트 최우수상 | 과학기술정보통신부 · 정보통신기획평가원 · 단국대학교 | 2025.12 |
+| 자격증 | SQLD | 한국데이터산업진흥원 | 2026.03 |
+| 자격증 | 정보처리기사 | 한국산업인력공단 | 2026.09 |
 
 <!-- 이 파일은 donggyu-kang.github.io/_data/profile.yml 에서 자동 생성됩니다. 직접 수정하지 마세요. -->
