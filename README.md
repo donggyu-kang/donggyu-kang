@@ -75,10 +75,9 @@ Spring Boot로 서비스의 **도메인과 API를 설계하고, 인증·데이�
 
 | 프로젝트 | 소개 | 기술 |
 |:--|:--|:--|
-| **[Postura](https://github.com/TABA-postura/Backend)**<br><sub>TABA 10기 최우수상</sub> | 웹캠 기반 실시간 자세 교정 헬스케어 서비스 · 백엔드 인증/인가 전담 | `Spring Boot` `Spring Security` `OAuth2` `JWT` `MySQL` `AWS` `Docker` `GitHub Actions` |
-| **[skydetect-ai](https://github.com/CAPSTONE-skydetect/skydetect-ai)** | 드론·조류 실시간 AI 분류 시스템 · 분류(C) 파트 전담 | `Python` `FastAPI` `scikit-learn` `pytest` |
-| **[skydetect-backend](https://github.com/CAPSTONE-skydetect/skydetect-backend)**<br><sub>진행 중</sub> | SkyDetect AI 분석 서버(FastAPI)와 연동할 Spring 백엔드 | `Spring Boot` `Java 21` `Spring Security` `Spring Data JPA` `MySQL` |
-| **[Gavel](https://github.com/donggyu-kang/gavel)**<br><sub>진행 중</sub> | 동시성 제어를 주제로 만드는 실시간 경매 플랫폼 · 개인 프로젝트 | `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` |
+| **[Postura](https://github.com/TABA-postura/Backend)**<br><sub>TABA 10기 최우수상</sub> | 웹캠 기반 실시간 자세 교정 헬스케어 서비스 · 백엔드 인증/인가 담당 | `Spring Boot` `Spring Security` `OAuth2` `JWT` `MySQL` `AWS` `Docker` `GitHub Actions` |
+| **[CAST](https://github.com/HyeonJeong-S/carbon-aware-scheduler)** | 탄소가 적은 리전·시간대로 클라우드 작업을 옮기는 스케줄링 시스템 · 스케줄러와 모듈 통합 담당 | `Python` `SimPy` `Dash` `pytest` `GitHub Actions` |
+| **[SkyDetect](https://github.com/CAPSTONE-skydetect)**<br><sub>진행 중</sub> | 드론·조류 실시간 분류 시스템 · 분류 파트, 서비스 통합, Spring 백엔드 담당 | `Python` `FastAPI` `scikit-learn` `Docker` `Spring Boot` |
 
 <br>
 
